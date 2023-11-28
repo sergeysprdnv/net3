@@ -23,8 +23,8 @@
 ---
 
 ### Задание 1
-[Задание1]()
+[Задание1](https://github.com/sergeysprdnv/net3/blob/main/1.txt)
 
 
 ### Заданиe 2
-[Задание2]()
+[Задание2](https://github.com/sergeysprdnv/net3/blob/main/2.txt)
